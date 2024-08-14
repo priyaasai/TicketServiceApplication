@@ -1,5 +1,5 @@
-package com.oracle.project.layer2;
 
+package com.oracle.project.layer2;
 //import javax.persistence.Entity;
 //import javax.persistence.Id;
 
